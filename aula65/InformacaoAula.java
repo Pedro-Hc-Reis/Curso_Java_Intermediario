@@ -6,5 +6,4 @@ package aula65;
     int aulaNumero();
     String blog() default "http://xxxxx.bom.br";
     String site() default "http://xxxxx.bom.br";
-
 }
