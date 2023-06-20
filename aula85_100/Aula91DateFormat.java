@@ -44,7 +44,7 @@ public class Aula91DateFormat {
                 DateFormat.SHORT, DateFormat.SHORT).format(hoje);
         System.out.println(hojeFormatado);
 
-        String data = "12-02-2017 14:25";
+        String data = "20/06/2023 14:25";
         try {
             Date dataDate = DateFormat.getInstance().parse(data);
             System.out.println(dataDate);
@@ -57,5 +57,4 @@ public class Aula91DateFormat {
             e.printStackTrace();
         }
     }
-
 }
