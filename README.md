@@ -4,7 +4,7 @@ Bem-vindo ao repositório do curso de Java intermediário oferecido pela Loiane 
 
 ## Link do Curso com Certificado
 
-[Curso Java Intermediario](https://loiane.training/certificado/M8S60Plb0iUhLTYTQ21f)
+[Curso Java Intermediário](https://loiane.training/certificado/M8S60Plb0iUhLTYTQ21f)
    
 ## Estrutura do Repositório
 
